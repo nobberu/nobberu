@@ -1,40 +1,28 @@
-# Hi, yes I'm Nobbel.
-### Computer Science student focused on `Frontend Development` and `Interaction Design`
+# Hi, yes I'm Nobbel
 
-&nbsp;
+**Computer Science student** focused on **frontend development** and **interaction design**.
 
-- 🔭 Currently working on <a href="https://github.com/tampak-dev" target="_blank">`tampak. dev`</a> startup.
+- Currently working on [tampak.dev](https://github.com/tampak-dev), a startup.
+- Going deeper into frontend development, visual design, and interaction design.
+- Fun fact: I'm a hobbyist photographer and videographer.
 
-- 📖 Learning deeper about Websites, Visuals and Interactions.
+## My Open-Source Projects
 
-- 🤝 Looking to collaborate on **visual needed projects**.
+- [**Cove**](https://github.com/nobberu/Cove): time, held. A Dynamic Island-style desktop app that keeps your time, tasks, and focus in one small place.
 
-- ✨ Fun fact: I'm also a hobbyist photographer/videographer too.
+## Let's Connect
 
-<p>&nbsp;</p>
+<!-- Add your portfolio first, e.g. [**Portfolio**](https://your-site.com) -->
 
-<h2>Let's Connect</h2>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nobberu/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nobberu/)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nobberu/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> &nbsp; 
-  <a href="https://www.instagram.com/nobberu/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+## Tools & Stack
 
-<p>&nbsp;</p>
+**Development**
 
-<h3>Used Languages and Tools:</h3>
-<p>• <i>Development</i></p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=astro,svelte,cloudflare,gsap,tailwind,expo,next,reactnative,ts,js,laravel,php,html,css,zed&theme=dark" />
-<p>• <i>Design, Management & Visuals</i></p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,affinity,ps,lr,obsidian,notion&theme=dark" />
+![Development tools](https://go-skill-icons.vercel.app/api/icons?i=astro,svelte,tauri,next,react,gsap,tailwind,ts&theme=dark)
 
-<p>&nbsp;</p>
+**Design, management & visuals**
 
-<p align="center">
-<img align="left" width="53%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nobberu&hide_border=true&bg_color=f5f5f3&text_color=060605&show_icons=true&title_color=060605&icon_color=060605&custom_title=Nobbel's&nbsp;Github&nbsp;Stats&rank_icon=github&v=1" />
-</p>
-&nbsp;
+![Design and productivity tools](https://go-skill-icons.vercel.app/api/icons?i=figma,affinity,ps,lr,obsidian,notion&theme=dark)
