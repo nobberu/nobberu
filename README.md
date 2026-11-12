@@ -8,7 +8,7 @@
 
 ## My Open-Source Projects
 
-- [**Cove**](https://github.com/nobberu/Cove): time, held. A Dynamic Island-style desktop app that keeps your time, tasks, and focus in one small place.
+- [**Cove**](https://github.com/nobberu/Cove) <ins>(Low Priority Dev)</ins>: time, held. A Dynamic Island-style desktop app that keeps your time, tasks, and focus in one small place.
 - [**Slipway**](https://github.com/nobberu/Slipway): Where everything launches. Gets you from a few keystrokes to the thing you wanted to open.
 
 ## Let's Connect
